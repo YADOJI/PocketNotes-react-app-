@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PocketNotes-react-app-/static/css/main.189627e1.css",
+    "main.js": "/PocketNotes-react-app-/static/js/main.510458c7.js",
+    "static/media/Home.png": "/PocketNotes-react-app-/static/media/Home.bd767b574b9b42625473.png",
+    "index.html": "/PocketNotes-react-app-/index.html",
+    "main.189627e1.css.map": "/PocketNotes-react-app-/static/css/main.189627e1.css.map",
+    "main.510458c7.js.map": "/PocketNotes-react-app-/static/js/main.510458c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189627e1.css",
+    "static/js/main.510458c7.js"
+  ]
+}
